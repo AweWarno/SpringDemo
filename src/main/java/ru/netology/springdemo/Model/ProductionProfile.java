@@ -1,4 +1,4 @@
-package ru.netology.springdemo;
+package ru.netology.springdemo.Model;
 
 public class ProductionProfile implements SystemProfile {
     @Override
